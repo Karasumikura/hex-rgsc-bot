@@ -1,0 +1,14 @@
+# model weights are not published
+*.pkl
+*.pt
+*.pth
+data/
+models/
+
+# timing logs
+logs/
+*.csv
+
+__pycache__/
+*.pyc
+.venv/
